@@ -1,6 +1,6 @@
 body {
     background-color:rgb(78, 28, 88);
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 #image{
@@ -8,13 +8,15 @@ body {
     width: 400px; 
     height:200px; 
     padding: 10px;
+    border-radius: 25px;
 }
 
 h1{
     font-family: 'Black And White Picture', sans-serif;
+    color: rgb(46, 110, 206)
 }
 
-header{
+footer{
     text-align: center; 
-    color:white";
+    color:white
 }
